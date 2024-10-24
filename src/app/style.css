@@ -1,0 +1,12 @@
+h1 {
+	color: blue;
+}
+
+.container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.link_espaco {
+	padding-right: 2rem;
+}
